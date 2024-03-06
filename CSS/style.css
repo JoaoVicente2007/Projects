@@ -15,13 +15,15 @@ body{
 
 .card-container{
     padding: 20vh 5vw;
+    margin: 30px;
     background-color: white;
     border: 2px solid black;
     border-radius: 35px;
     cursor: pointer;
     box-shadow: 15px 15px rgba(0, 0, 0, 0.3);
+    
 }
 
-#to-do-link{
+#text-card-link{
     text-decoration: none;
 }
